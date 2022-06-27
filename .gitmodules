@@ -1,0 +1,8 @@
+[submodule "rentstore-backend"]
+	path = rentstore-backend
+	url = git@github.com:h3cksamrat/rentstore-backend
+	branch = development
+[submodule "rentstore-frontend"]
+	path = rentstore-frontend
+	url = git@github.com:h3cksamrat/rentstore-frontend
+	branch = development
